@@ -1,4 +1,4 @@
-Hi, I’m @fabian621. I’m currently learning Java.
+Hi, I’m @fabian621.
 
 <!---
 fabian621/fabian621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
